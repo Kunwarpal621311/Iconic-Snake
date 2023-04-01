@@ -36,11 +36,3 @@ License
 Iconic Snake is released under the MIT License. See LICENSE for more information.
 
 
-
-
-
-
-
-
-
-Regenerate response
