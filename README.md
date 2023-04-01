@@ -20,10 +20,6 @@ Iconic Snake was developed by Kunwar Pal as a mini project for Mangalmay College
 Contributing
 If you would like to contribute to Iconic Snake, feel free to submit a pull request with your changes. Contributions are always welcome!
 
-License
-Iconic Snake is released under the MIT License. See LICENSE for more information.
-
-
 
 screenshots 
 
@@ -33,6 +29,11 @@ screenshots
 
 
 <img width="935" alt="image" src="https://user-images.githubusercontent.com/95952807/229269336-cb6647f4-e9ba-4fc5-91ca-efdf8e0b033e.png">
+
+
+
+License
+Iconic Snake is released under the MIT License. See LICENSE for more information.
 
 
 
