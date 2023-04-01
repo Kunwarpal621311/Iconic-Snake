@@ -25,6 +25,19 @@ Iconic Snake is released under the MIT License. See LICENSE for more information
 
 
 
+screenshots 
+
+<img width="1004" alt="image" src="https://user-images.githubusercontent.com/95952807/229269306-70849454-be9c-4e04-a919-83e8fefff456.png">
+
+
+<img width="935" alt="image" src="https://user-images.githubusercontent.com/95952807/229269336-cb6647f4-e9ba-4fc5-91ca-efdf8e0b033e.png">
+
+
+
+
+
+
+
 
 
 Regenerate response
